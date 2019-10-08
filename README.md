@@ -1,5 +1,5 @@
 # homeStorage-NAS
-Network attached storage with PHP, intended to be used on a raspberry pi with a hard drive
+Network attached storage with PHP, intended to be used on a raspberry pi with a hard drive <br>
 Use a raspberry pi to accept and store files through a web server <br>
 This is done by creating a apache web server with php, you can host this web server with a raspberry pi<br>
 Access the server using the ipv4 adress of your raspberry pi (run command <code>ifconfig</code>)<br>
